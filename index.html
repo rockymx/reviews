@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rocky.mx | Página de Reviews en Google, Facebook e Instagram para tu Negocio</title>
+
+    <meta name="description" content="Rocky.mx te permite gestionar y mostrar las reviews de Google Maps, Facebook e Instagram para mejorar la reputación de tu negocio. Solicita tu página de reseñas personalizada." />
+
+    <!-- Palabras clave enfocadas en el servicio -->
+    <meta name="keywords" content="reviews google maps, reseñas facebook, opiniones instagram, gestión de reviews, reputación online, Rocky.mx" />
+
+    <!-- Open Graph para compartir en redes sociales -->
+    <meta property="og:title" content="Rocky.mx - Página de Reviews para Google Maps, Facebook e Instagram" />
+    <meta property="og:description" content="Gestiona y muestra las reseñas de tus clientes desde Google Maps, Facebook e Instagram con Rocky.mx. Mejora la confianza en tu negocio." />
+    <meta property="og:image" content="https://rocky.mx/a1225/banner.jpg" />
+    <meta property="og:url" content="https://rocky.mx/a1225/" />
+    <meta property="og:type" content="website" />
+
+    <!-- Icono y fuentes -->
+    <link rel="icon" href="favicon.png" type="image/x-icon" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet" />
+
+    <!-- Font Awesome para iconos -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+
+    <!-- Estilos propios -->
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+
+
+<body>
+    <div class="language-switcher">
+        <button id="lang-toggle" data-translate-aria="changeLangAria" aria-label="Cambiar idioma" title="Cambiar idioma">
+            <i class="fas fa-globe"></i>
+            <span id="current-lang-indicator" class="lang-indicator">ES</span> </button>
+        </div>
+
+    <div class="container">
+        <header class="banner-profile-header">
+            <div class="banner">
+                </div>
+            <div class="profile-picture-area">
+                <img id="profile-pic" src="profile.webp" alt="Foto de Perfil"> </div>
+        </header>
+
+        <main>
+            <section class="review-section">
+                <h1 data-translate="ratingQuestion">¿Cómo calificarías tu experiencia?</h1>
+                <div class="rating-container">
+                    <div class="stars" role="radiogroup" data-translate-aria="ratingAriaLabel" aria-label="Calificación por estrellas">
+                        <i class="fas fa-star" data-rating="1" role="radio" data-translate-aria-pattern="starAriaLabel" aria-label="Calificar con 1 estrella" tabindex="0"></i>
+                        <i class="fas fa-star" data-rating="2" role="radio" data-translate-aria-pattern="starAriaLabel" aria-label="Calificar con 2 estrellas" tabindex="0"></i>
+                        <i class="fas fa-star" data-rating="3" role="radio" data-translate-aria-pattern="starAriaLabel" aria-label="Calificar con 3 estrellas" tabindex="0"></i>
+                        <i class="fas fa-star" data-rating="4" role="radio" data-translate-aria-pattern="starAriaLabel" aria-label="Calificar con 4 estrellas" tabindex="0"></i>
+                        <i class="fas fa-star" data-rating="5" role="radio" data-translate-aria-pattern="starAriaLabel" aria-label="Calificar con 5 estrellas" tabindex="0"></i>
+                    </div>
+                    <div class="rating-text" data-translate="selectRating">Selecciona una calificación</div>
+                </div>
+                <div id="feedback-container" class="feedback-container hidden" aria-live="polite">
+                    <div id="feedback-message" class="feedback-message"></div>
+                    <div id="action-buttons" class="action-buttons"></div>
+                </div>
+            </section>
+        </main>
+</br>
+        <footer>
+            <div class="footer-social-icons">
+                <a href="https://wa.link/8hew85" target="_self" rel="noopener noreferrer" aria-label="Contactar por WhatsApp"> <i class="fab fa-whatsapp"></i>
+                </a>
+                </div>
+            <p data-translate="footerCopyright"><a href="https://reviews.rocky.mx" target="_self" data-litlyx-event="click_privacy_policy">Solicita tu QR en Rocky.mx</a></p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+	<script defer data-project="6800b572b9698244377fa9b1" src="https://cdn.jsdelivr.net/gh/litlyx/litlyx-js/browser/litlyx.js"></script>
+	
+	    <script>
+      !function(t,e,a,n){function c(){if(!e.getElementById(a)){var t=e.getElementsByTagName(n)[0],c=e.createElement(n);c.type="text/javascript",c.async=!0,c.src="https://cdn.taku-app.com/js/latest.js",t.parentNode.insertBefore(c,t)}}if("function"!=typeof t.Taku){var s=function(){s.q.push(arguments)};s.q=[],t.Taku=s,"complete"===e.readyState?c():t.attachEvent?t.attachEvent("onload",c):t.addEventListener("load",c,!1)}}(window,document,"taku-js","script");
+      window.Taku('news:boot', {
+        api_public_key: "f30d3da03d98bbfff395009b3a4d00c9",
+      });
+    </script>
+    </body>
+</html>
