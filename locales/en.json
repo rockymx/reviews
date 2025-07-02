@@ -1,0 +1,21 @@
+{
+  "pageTitle": "Rocky.mx | Review Page on Google, Facebook, and Instagram for Your Business",
+  "metaDescription": "Rate your experience with us. Help us improve by leaving your review.",
+  "ratingQuestion": "How would you rate your experience?",
+  "selectRating": "Select a rating",
+  "ratingAriaLabel": "Star rating",
+  "starAriaLabel": "Rate with {rating} star(s)",
+  "feedback1": "We are very sorry about your negative experience. We want to improve and it would be very helpful if you provide us with more details about what happened.",
+  "feedback2": "We regret that your experience was not satisfactory. We are interested in knowing what we could have done better to improve our service.",
+  "feedback3": "Thank you for your evaluation. We value your comments and are committed to constant improvement. Could you give us more details about your experience?",
+  "feedback4": "Thank you very much for your positive rating! We are glad to know you enjoyed our service. If you wish, you can share your experience on Google Maps or Facebook, it would help us a lot!",
+  "feedback5": "Excellent! We are delighted that you had such a positive experience. Your opinions motivate us to keep improving. Would you like to share your experience on Google Maps or Facebook?",
+  "completeFormBtn": "Complete form",
+  "rateGoogleBtn": "Rate us on Google",
+  "rateFacebookBtn": "Rate us on Facebook",
+  "footerCopyright": "2025 <a href='https://reviews.rocky.mx' target='_self' rel='noopener noreferrer'> Request your QR code at Rocky.mx </a>",
+  "lang_es": "Spanish",
+  "lang_en": "English",
+  "lang_fr": "French",
+  "changeLangAria": "Change language"
+}

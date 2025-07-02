@@ -1,0 +1,21 @@
+{
+  "pageTitle": "Rocky.mx | Página de Reviews en Google, Facebook e Instagram para tu Negocio",
+  "metaDescription": "Rocky.mx te permite gestionar y mostrar las reviews de Google Maps, Facebook e Instagram para mejorar la reputación de tu negocio. Solicita tu página de reseñas personalizada.",
+  "ratingQuestion": "¿Cómo calificarías tu experiencia?",
+  "selectRating": "Selecciona una calificación",
+  "ratingAriaLabel": "Calificación por estrellas",
+  "starAriaLabel": "Calificar con {rating} estrella(s)",
+  "feedback1": "Lamentamos mucho tu experiencia negativa. Queremos mejorar y sería de gran ayuda si nos proporcionas más detalles sobre lo sucedido.",
+  "feedback2": "Sentimos que tu experiencia no haya sido satisfactoria. Nos interesa conocer qué podríamos haber hecho mejor para mejorar nuestro servicio.",
+  "feedback3": "Gracias por tu evaluación. Valoramos tus comentarios y estamos comprometidos a mejorar constantemente. ¿Podrías darnos más detalles sobre tu experiencia?",
+  "feedback4": "¡Muchas gracias por tu calificación positiva! Nos alegra saber que has disfrutado de nuestro servicio.",
+  "feedback5": "¡Excelente! Estamos encantados de que hayas tenido una experiencia tan positiva. Tus opiniones nos motivan a seguir mejorando.",
+  "completeFormBtn": "Completar formulario",
+  "rateGoogleBtn": "Califícanos en Google",
+  "rateFacebookBtn": "Califícanos en Facebook",
+  "footerCopyright": "2025 <a href='https://reviews.rocky.mx' target='_self' rel='noopener noreferrer'> Solicita tu QR en Rocky.mx </a>",
+  "lang_es": "Español",
+  "lang_en": "Inglés",
+  "lang_fr": "Francés",
+  "changeLangAria": "Cambiar idioma"
+}

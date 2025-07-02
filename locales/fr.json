@@ -1,0 +1,21 @@
+{
+  "pageTitle": "Système d'Avis",
+  "metaDescription": "Évaluez votre expérience avec [Nom de votre entreprise]. Aidez-nous à nous améliorer en laissant votre avis.",
+  "ratingQuestion": "Comment évalueriez-vous votre expérience ?",
+  "selectRating": "Sélectionnez une note",
+  "ratingAriaLabel": "Évaluation par étoiles",
+  "starAriaLabel": "Noter avec {rating} étoile(s)",
+  "feedback1": "Nous sommes vraiment désolés pour votre expérience négative. Nous souhaitons nous améliorer et il serait très utile que vous nous fournissiez plus de détails sur ce qui s'est passé.",
+  "feedback2": "Nous regrettons que votre expérience n'ait pas été satisfaisante. Nous aimerions savoir ce que nous aurions pu faire de mieux pour améliorer notre service.",
+  "feedback3": "Merci pour votre évaluation. Nous apprécions vos commentaires et nous nous engageons à nous améliorer constamment. Pourriez-vous nous donner plus de détails sur votre expérience ?",
+  "feedback4": "Merci beaucoup pour votre évaluation positive ! Nous sommes ravis de savoir que vous avez apprécié notre service. Si vous le souhaitez, vous pouvez partager votre expérience sur Google Maps ou Facebook, cela nous aiderait beaucoup !",
+  "feedback5": "Excellent ! Nous sommes ravis que vous ayez eu une expérience aussi positive. Vos opinions nous motivent à continuer de nous améliorer. Souhaitez-vous partager votre expérience sur Google Maps ou Facebook ?",
+  "completeFormBtn": "Remplir le formulaire",
+  "rateGoogleBtn": "Évaluez-nous sur Google",
+  "rateFacebookBtn": "Évaluez-nous sur Facebook",
+  "footerCopyright": "&copy; 2025 <a href='https://reviews.rocky.mx' target='_blank' rel='noopener noreferrer'>[Nom de votre entreprise]</a>. Tous droits réservés.",
+  "lang_es": "Espagnol",
+  "lang_en": "Anglais",
+  "lang_fr": "Français",
+  "changeLangAria": "Changer de langue"
+}
